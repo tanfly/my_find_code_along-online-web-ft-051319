@@ -6,3 +6,4 @@ while i < collection.length
 yeild(collection[i])
 i += 1 
 end
+end
